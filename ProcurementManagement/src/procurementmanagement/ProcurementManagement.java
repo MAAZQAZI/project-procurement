@@ -16,10 +16,10 @@ public class ProcurementManagement {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        login l=new login();
-        l.setVisible(true);
-      // main ln=new main();
-      // ln.setVisible(true);
+      //  login l=new login();
+      //  l.setVisible(true);
+      Mainpage ln=new Mainpage();
+       ln.setVisible(true);
     }
     
 }
